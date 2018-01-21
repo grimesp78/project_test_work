@@ -1,0 +1,24 @@
+agent1,RMS-SEA,B2B-Nep-Ver- UK+ DE,Email,2695
+agent2,RMS-SEA,Holding Profile - Receives No Work,Meeting,1285
+agent3,RMS-SEA,Holding Profile - Receives No Work,Meeting,1287
+agent4,RMS-SEA,BRI-ES-DocVal+Generalist ,Available,478
+agent5,RMS-SEA,BRI-IT-NH+FQ,Available,155
+agent6,RMS-SEA,BRI-IT-DocVal+ Generalist-Requeue,Available,141
+agent7,RMS-SEA,Holding Profile - Receives No Work,Break,470
+agent8,RMS-SEA,BRI-FR-DocVal+Generalist+GIL,Email,14
+agent9,RMS-SEA,BRI-ES-NH+FQ,Available,2906
+agent10,RMS-SEA,Holding Profile - Receives No Work,Project,1143
+agent11,RMS-SEA,BRI-DE-DocVal+ Generalist-Requeue,Meeting,3011
+agent12,RMS-SEA,Holding Profile - Receives No Work,Available,5968
+agent13,RMS-SEA,Holding Profile - Receives No Work,Available,1287
+agent14,RMS-SEA,Holding Profile - Receives No Work,Available,5333
+agent15,RMS-SEA,BRI-DE-DocVal+ Generalist-Requeue,Meeting,87
+agent16,RMS-SEA,Holding Profile - Receives No Work,Available,6011
+agent17,RMS-SEA,Holding Profile - Receives No Work,Meeting,1410
+agent18,RMS-SEA,Holding Profile - Receives No Work,Project,1010
+agent19,RMS-SEA,Holding Profile - Receives No Work,Email,468
+agent20,RMS-SEA,Holding Profile - Receives No Work,Meeting,2036
+agent21,RMS-SEA,BRI-DE-NHQF+Dig+GC,Available,5589182
+agent22,RMS-SEA,Holding Profile - Receives No Work,Available,1404241
+agent23,RMS-SEA,Holding Profile - Receives No Work,Available,8205616
+agent24,RMS-SEA,BRI-DE-NHQF+Dig+GC,Available,6293673
