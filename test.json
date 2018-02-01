@@ -1,0 +1,42 @@
+{
+    "agent1": {
+        "duration": "1967",
+        "site": "center-BLR",
+        "skill": "accounts_r",
+        "state": "Available"
+    },
+    "agent2": {
+        "duration": "3444",
+        "site": "center-SJO",
+        "skill": "accounts_p",
+        "state": "Available"
+    },
+    "agent3": {
+        "duration": "3032",
+        "site": "center-BLR",
+        "skill": "websales",
+        "state": "Available"
+    },
+    "agent4": {
+        "duration": "1628",
+        "site": "center-BLR",
+        "skill": "customer_s",
+        "state": "Meeting"
+    },
+    "agent5": {
+        "duration": "2184",
+        "site": "center-GUR",
+        "skill": "customer_s",
+        "state": "Available"
+    },
+    "agent6": {
+        "duration": "1537",
+        "site": "center_all",
+        "skill": "customer_s",
+        "state": "Lunch"
+    },
+    "agent7": {
+        "duration": "3334",
+        "site": "center-SJO",
+        "skill": "customer_s",
+        "state": "Lunch"
